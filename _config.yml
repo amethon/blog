@@ -52,4 +52,4 @@ github_username:  yumpy
 #   - vendor/gems/
 #   - vendor/ruby/
 
-theme: jekyll-theme-minimal
+theme: jekyll-theme-slate
